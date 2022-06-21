@@ -6,6 +6,6 @@ public class Hello{
         String name="Srishti";
         String surname="Jaiswal";
 
-        System.out.println(name + " "+surname +" :)");
+        System.out.println(" My name is " +name + " "+surname +" :)");
     }
 }
